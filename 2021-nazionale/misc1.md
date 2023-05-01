@@ -15,7 +15,7 @@ Di conseguenza, ci basterà eseguire ciascuna delle mosse un numero di volte tal
 
 ### Exploit
 
-Di seguito uno script python che interagisce con il serivizo implementando questa soluzione:
+Di seguito uno script python che interagisce con il servizio implementando questa soluzione:
 
 ```python
 #!/bin/env python3
